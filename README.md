@@ -4,6 +4,7 @@ Este é um sistema Kanban Web simples e funcional, com tarefas organizadas em co
 O projeto foi feito com:
 
 Front-end: HTML, CSS e JavaScript puro
+
 Back-end: Node.js + Express
 Banco de Dados: MySQL local
 Funcionalidades
