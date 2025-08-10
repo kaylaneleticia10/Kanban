@@ -10,11 +10,7 @@ Back-end: Node.js + Express
 Banco de Dados: MySQL local
 
 Funcionalidades:
-Adicionar nova tarefa
-Editar título e descrição
-Excluir tarefa
-Arrastar tarefa entre colunas (drag and drop)
-Atualização automática no banco de dados
+Adicionar nova tarefa, editar título e descrição, excluir tarefa. arrastar tarefa entre colunas (drag and drop), atualização automática no banco de dados.
 
 ## 1. Instale as dependências ##
 npm install
