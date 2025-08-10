@@ -8,7 +8,8 @@ Front-end: HTML, CSS e JavaScript puro
 Back-end: Node.js + Express
 
 Banco de Dados: MySQL local
-Funcionalidades
+
+Funcionalidades:
 Adicionar nova tarefa
 Editar título e descrição
 Excluir tarefa
