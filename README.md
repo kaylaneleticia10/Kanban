@@ -6,6 +6,7 @@ O projeto foi feito com:
 Front-end: HTML, CSS e JavaScript puro
 
 Back-end: Node.js + Express
+
 Banco de Dados: MySQL local
 Funcionalidades
 Adicionar nova tarefa
